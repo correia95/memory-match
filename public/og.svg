@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#0d0d14"/>
+  <g transform="translate(720,120)">
+    <rect x="0" y="0" width="90" height="120" rx="14" fill="#7c3aed"/>
+    <rect x="105" y="0" width="90" height="120" rx="14" fill="#7c3aed"/>
+    <rect x="210" y="0" width="90" height="120" rx="14" fill="#17171f" stroke="#26262f" stroke-width="2"/>
+    <rect x="315" y="0" width="90" height="120" rx="14" fill="#17171f" stroke="#26262f" stroke-width="2"/>
+    <text x="255" y="82" text-anchor="middle" font-size="56">🚀</text>
+    <text x="360" y="82" text-anchor="middle" font-size="56">🌈</text>
+    <rect x="0" y="135" width="90" height="120" rx="14" fill="#17171f" stroke="#16a34a" stroke-width="4"/>
+    <rect x="105" y="135" width="90" height="120" rx="14" fill="#17171f" stroke="#16a34a" stroke-width="4"/>
+    <text x="45" y="217" text-anchor="middle" font-size="56">🍄</text>
+    <text x="150" y="217" text-anchor="middle" font-size="56">🍄</text>
+    <rect x="210" y="135" width="90" height="120" rx="14" fill="#7c3aed"/>
+    <rect x="315" y="135" width="90" height="120" rx="14" fill="#7c3aed"/>
+  </g>
+  <text x="80" y="200" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="100" font-weight="800" fill="#e8e8f0" letter-spacing="-2">Memory Match</text>
+  <text x="80" y="264" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="28" fill="#9a9cae">The classic card matching game</text>
+  <text x="80" y="440" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="26" fill="#e8e8f0">Find every pair · four sizes · timer · stars · best scores</text>
+  <text x="80" y="486" font-family="-apple-system, Segoe UI, Roboto, sans-serif" font-size="22" fill="#9a9cae">Free · no sign-up · plays in your browser</text>
+</svg>
